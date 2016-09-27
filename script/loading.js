@@ -23,9 +23,3 @@ function completeLoading() {
 loadingInit();
 //监听加载状态改变
 document.onreadystatechange = completeLoading;
-
-/*
-	图像居中，背景颜色改变，获取高度和宽度
-
-	content先不显示，加载完显示并且图像消失
-*/
