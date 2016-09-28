@@ -9,6 +9,8 @@
 
 去MyPages瞧瞧：[MyPages](https://Fiona-SUN.github.io/MyPages/index.html)
 
+`页面完成了三个模块：我的主页、个人信息、我的临摹网站`
+
 ![MyPages](https://Fiona-SUN.github.io/photos/MyPages.png)
 
 >post in 2016/9/28
